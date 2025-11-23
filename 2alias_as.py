@@ -4,5 +4,5 @@ ds={
 'Price':[200000,500000,600000]
 }
 
-df=pd.DataFrame(ds)
-print(df)
+dataframe=pd.DataFrame(ds)
+print(dataframe)
